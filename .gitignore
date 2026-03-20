@@ -45,6 +45,7 @@ logs/
 # Test outputs
 test-output/
 *.xml
+!pom.xml
 
 # Java package files
 *.jar
